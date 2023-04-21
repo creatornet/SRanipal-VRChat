@@ -1,4 +1,4 @@
-VRChatSRanipal
+SRanipal against VRChat
 ==============
 VIVE Pro Eye (SRanipal/SR_Runtime) のまばたきトラッキング、アイトラッキングを、OSCの9000番ポートへ以下のパラメータとして送信します。
 - /avatar/parameters/BlinkLeft
