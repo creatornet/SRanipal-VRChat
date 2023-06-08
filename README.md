@@ -14,8 +14,7 @@ VRCExpressionParametersで、上記パスの最後の部分 (「BlinkLeft」等)
 
 開発
 ====
-クローン後、VIVE Eye and Facial Tracking SDKをインポートします。  
-https://developer-express.vive.com/resources/vive-sense/eye-and-facial-tracking-sdk/download/latest/
+クローン後、Unityでビルドします。
 
 ライセンス
 ==========
